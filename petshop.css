@@ -1,64 +1,72 @@
 body {
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2izzhi-zq6Vh_Po5T7GFwqztn7krZg02jq6vv31C8zg&s);
-    background-repeat: no-repeat;
+    background: url(https://pluspng.com/img-png/pet-care-png-why-hire-crystal-coast-pet-sitting-service-2000.png); 
     background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 125%;
+    background-color: rgb(255, 255, 189, 0.512);
 }
-
-.welcome {
+.box{
+    background-size: cover;
+    background-color: rgb(255, 166, 0, 0.608);
+    height: 107px;
+    width: 1124px;
+    margin-left: -100px;
+    margin-top: -50px;
+    
+}
+.heading{
     text-align: center;
-    color: white;
-    font-family: 'Times New Roman', Times, serif;
+    color: rgb(80, 39, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: -px;
+  margin-top: 15px;
+  font-weight: 500;
+    
 }
 
-.register {
-    color: white;
-    font-family: 'Times New Roman', Times, serif;
+.icon{
+    margin-top: -37px;
+    height: 7%;
+    margin-left: 10px;
 }
+.heading1{
+    text-align: center;
+    color: rgb(80, 39, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: -1px;
+}
+.heading2{
+    color: rgb(80, 39, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: -1px;
+    margin-top: -145px;
+    margin-left: 55px;
+    font-size: 20px;
+}
+.contact
+{
+    text-align: right;
+    margin-top: -20px;
+    margin-right: 5px;
+    font-size: 10px;
 
-.para {
-    color: white;
-}
-
-.name {
-
-    height: max-content;
-    width: max-content;
-    background-color: pink;
-    margin-left: 100;
-}
-.phoneno{
-    height: max-content;
-    width: max-content;
-    background-color: pink;
-    margin-left: 40;
-}
-.address{
-    height: max-content;
-    width: max-content;
-    background-color: pink;
-    margin-left: 83.5;
 }
 .email{
-    height: max-content;
-    width: max-content;
-    background-color: pink;
-    margin-left: 100;
-}
-.password{
-    height: max-content;
-    width: max-content;
-    background-color: pink;
-    margin-left: 75;
-}
-.confirmpass{
-    height: max-content;
-    width: max-content;
-    background-color: pink;
-    margin-left: 12;
-}
-.submit{
-    background-color: palevioletred;
-    margin-left: 100;
-}
+    text-align: right;
+    font-size: 10px;
+    margin-top: -3px;
+    margin-right: 26px;
 
+}
+.yellow{
 
+   margin-left: 365;
+   margin-top: 138;
+   border-radius: 20px;
+}
+.dark1
+{
+    margin-left: 50px;
+    margin-top: 138;
+    border-radius: 20px;
+}
