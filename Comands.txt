@@ -1,0 +1,7 @@
+git clone *repotory address
+git init 
+git add .
+git remote add origin *repotory address
+git commit -m "*Name"
+git checkout -b *name
+git push origin *name
