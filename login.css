@@ -1,0 +1,52 @@
+body {
+    background-image: url(https://t4.ftcdn.net/jpg/06/79/46/51/360_F_679465105_rZXKIp6Or5G11yFNuDgoNdNRA5DiYuhj.jpg);
+background-size: cover;
+background-repeat: no-repeat;}
+.login
+{
+   /* position: absolute;
+    top: 50;*/
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 100;
+}
+.username
+{
+    height: max-content;
+    width: max-content;
+margin-left: 600;
+    background-color: pink;
+    
+}
+.username1
+{
+    position: relative;
+    left: 600;
+}
+
+.password
+{
+height: max-content;
+width: max-content;
+background-color: pink;
+margin-left: 600;
+}
+.password1
+{
+    position: relative;
+    left: 600;
+}
+.forgotpass
+{
+   
+    position: relative;
+    left: 700; 
+}
+.loginbutton
+{
+    margin-left: 640;
+    height: 25;
+    width: 100;
+    background-color: pink;
+}

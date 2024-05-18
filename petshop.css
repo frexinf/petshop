@@ -1,0 +1,64 @@
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2izzhi-zq6Vh_Po5T7GFwqztn7krZg02jq6vv31C8zg&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.welcome {
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.register {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.para {
+    color: white;
+}
+
+.name {
+
+    height: max-content;
+    width: max-content;
+    background-color: pink;
+    margin-left: 100;
+}
+.phoneno{
+    height: max-content;
+    width: max-content;
+    background-color: pink;
+    margin-left: 40;
+}
+.address{
+    height: max-content;
+    width: max-content;
+    background-color: pink;
+    margin-left: 83.5;
+}
+.email{
+    height: max-content;
+    width: max-content;
+    background-color: pink;
+    margin-left: 100;
+}
+.password{
+    height: max-content;
+    width: max-content;
+    background-color: pink;
+    margin-left: 75;
+}
+.confirmpass{
+    height: max-content;
+    width: max-content;
+    background-color: pink;
+    margin-left: 12;
+}
+.submit{
+    background-color: palevioletred;
+    margin-left: 100;
+}
+
+
